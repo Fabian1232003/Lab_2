@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../primerprojeto"
+		},
+		{
+			"name": "segundo_porjeto",
+			"path": "../../segundo_porjeto"
+		},
+		{
+			"name": "tempo",
+			"path": "../../tempo"
+		},
+		{
+			"name": "Lab_2",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
